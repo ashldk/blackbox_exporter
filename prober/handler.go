@@ -39,6 +39,7 @@ var (
 		"icmp": ProbeICMP,
 		"dns":  ProbeDNS,
 		"grpc": ProbeGRPC,
+		"vmc":  ProbeVMC,
 	}
 )
 
